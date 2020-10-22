@@ -1,0 +1,6 @@
+vue2升级vue3  vue add vue-next
+
+
+vue3:
+   不需要单个根节点包裹了
+   代码太多，去data和方法中来回跳麻烦
